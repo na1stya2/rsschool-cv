@@ -3,7 +3,7 @@
 ## Contact
 ---
 * **GitHub [na1stya2](https://github.com/na1stya2"ссылка на github")**
-* **Discord [zephirka(@na1stya2)](https://discordapp.com/users/2446/"ссылка на дискорд discord")**
+* **Discord [na1stya2(@na1stya2)](https://discordapp.com/users/2446/"ссылка на дискорд discord")**
 ---
 ## About me
 ---
@@ -27,7 +27,7 @@ greet();
 
 ## Experience
 
-* CV [Это ссылка на cv](https://github.com/na1stya2/rsschool-cv.git)
+* [CV](https://na1stya2.github.io/rsschool-cv/cv)
 ---
 ## Education
   
@@ -35,6 +35,7 @@ greet();
   * Code Basics HTML
   * Code Basics CSS
 ---
+
 ## Languages 
  
  *English:* A2  
