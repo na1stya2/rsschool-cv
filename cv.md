@@ -7,7 +7,7 @@
 ---
 ## About me
 ---
-My name's Nastya. I'm studying at RS School frontend development now. 
+My name's Nastya. I'm studying at RS School frontend development now. I'm just started learning to programming.
 ---
 ## Skills
  * HTML5
@@ -37,4 +37,4 @@ greet();
 ---
 ## Languages 
  
- *English:*B1  
+ *English:* A2  
