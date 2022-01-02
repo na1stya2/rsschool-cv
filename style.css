@@ -1,3 +1,29 @@
-.header{
-font-size: larger;
+header{
+    display: flex;
+    justify-content: space-around;
+
+}
+.photo{
+    border-radius: 50px;
+}
+.name{
+    color:rgb(171, 109, 230);
+    font-family: 'Raleway', sans-serif;
+}
+
+main{
+  display: flex;
+  flex-direction: column;
+  margin: 10%;
+
+}
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+.container{
+display:flex;
+justify-content: space-around;
+align-items: baseline;
 }
